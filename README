@@ -10,7 +10,7 @@ Usage
 
 ::
 
-    >>> from flags.lookup import lookup
+    >>> from emojiflags.lookup import lookup
     >>> lookup('DE')
     '🇩🇪'
 

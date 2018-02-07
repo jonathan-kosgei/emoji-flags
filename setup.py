@@ -9,8 +9,8 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-  name = 'emoji-flags',
-  packages = ['emoji-flags'],
+  name = 'emojiflags',
+  packages = ['emojiflags'],
   version = '0.1.0',
   description = 'Python Package for Country Flag Emojis.',
   author = 'Jonathan Kosgei',

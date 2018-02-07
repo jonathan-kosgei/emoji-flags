@@ -2,6 +2,6 @@
 README
 setup.cfg
 setup.py
-emoji-flags/__init__.py
-emoji-flags/data.py
-emoji-flags/lookup.py
+emojiflags/__init__.py
+emojiflags/data.py
+emojiflags/lookup.py
