@@ -11,7 +11,7 @@ def read(fname):
 setup(
   name = 'emojiflags',
   packages = ['emojiflags'],
-  version = '0.1.0',
+  version = '0.1.1',
   description = 'Python Package for Country Flag Emojis.',
   author = 'Jonathan Kosgei',
   author_email = 'jonathan@ipdata.co',
